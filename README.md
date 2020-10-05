@@ -1,6 +1,6 @@
 # rails_good_reference
 **初学者向け**
-
+# 
 Railsおよびその周辺知識に関する参考記事をまとめる。
 
 
